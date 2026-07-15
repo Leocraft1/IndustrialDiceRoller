@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.link{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.rolls{
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+}
+#results-container{
+    margin-top: 8px;
+}
+
+.green{
+    color: lime;
+    font-weight: bold;
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
